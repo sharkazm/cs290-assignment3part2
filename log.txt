@@ -1,0 +1,4 @@
+Start: Fri, 17 April 2015 10:00 a.m.
+End: Fri, 17 April 2015 3:00 p.m.
+Tasks: Re-read the weekly reading material and related it to assignment.  Began writing code in scratchpad.    
+
