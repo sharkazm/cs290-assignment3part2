@@ -2,3 +2,7 @@ Start: Fri, 17 April 2015 10:00 a.m.
 End: Fri, 17 April 2015 3:00 p.m.
 Tasks: Re-read the weekly reading material and related it to assignment.  Began writing code in scratchpad.    
 
+Start: Tue, 21 April 2015 2:00 p.m.
+End: Tue, 21 April 2015 6:00 p.m.
+Tasks: Reviewing lectures for a second time.  Relating them to assignment.  Coding in scratchpad and Visual Studio.  Debugging and refining work from last session.  
+
