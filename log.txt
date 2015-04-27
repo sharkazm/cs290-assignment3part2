@@ -10,3 +10,6 @@ Start:  Thurs, 23 April 2015 1:00 p.m.
 End:  Thurs, 23 April 2015 5:00 p.m.
 Tasks:  Debugging and refining work from last session.  Ran into several problems that others were also experiencing on Piazza.  Many answers/resources on Piazza were helpful, but still having difficulties.    Coding in Sublime.  
 
+Start: Sun, 26 April 2015 2:00 p.m.
+End: Sun, 26 April 2015 11:30 p.m.
+Tasks:  Reviewed and refined work done in last session.  Reviewed Piazza posts for tips from other students and further clarification from instructor.  Added code to repository.  Debugged countless errors.  Took time in between each line of code to test results.  Finalized style.  Jumped for joy.  
