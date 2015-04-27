@@ -1,1 +1,55 @@
+div.gists{ 
+background-color: #00ffff; 
+}
 
+div.leftcolumn{
+  width: 40%;
+  margin-left: 6%;
+  margin-right: 2%;
+  height: auto;
+  display: inline-block;
+  vertical-align: top;
+}
+
+div.rightcolumn{
+  width: 40%;
+  margin-left: 2%;
+  margin-right: 6%;
+  height: auto;
+  display: inline-block;
+  vertical-align: top;
+}
+
+div#faves > div,
+div#list > div{
+  margin-bottom: 5%;
+  margin-right: 2%;
+}
+
+button {
+  margin-right: 1.5%;
+}
+
+div#list > div > button {
+  background-color: #0000ff; 
+  color: white;
+  font-size: 1.15em;
+}
+
+div#faves > div > button { 
+  background-color: #0000ff;
+  color: white;
+  font-size: 1.20em;
+}
+
+button#get{
+  background-color: #0000ff;
+  color: white;
+  font-size: 1.15em;
+}
+
+div#pagebutton{
+  margin-left: 37%;
+  margin-top: 5%;
+  font-size: 1.15em;
+}
