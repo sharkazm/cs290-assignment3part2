@@ -1,1 +1,43 @@
+<!DOCTYPE html>
 
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <title>Assignment 2, part 3 - Mike Sharkazy</title>
+    <link rel="stylesheet" href="assignment3.css">
+    <script src="assignment3.js"></script>
+  </head>
+
+  <body>
+
+      <div id="pagebutton">
+        <span>Pages to show: </span>
+        <select id="pagenums">
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+        <button id="get" onclick = "getGist()">Get GISTS</button>
+      </div>
+
+    <div class="leftcolumn">
+      <h1>GISTS</h1>
+      <div class="gists">
+        <div id="list">
+        </div>
+      </div>
+    </div> 
+
+    <div class="rightcolumn">
+      <h1>Favorites</h1>
+      <div class="gists">
+        <div id="faves">
+        </div>
+      </div>
+    </div>
+
+  </body>
+</html>
